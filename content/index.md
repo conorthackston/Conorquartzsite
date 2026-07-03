@@ -1,10 +1,5 @@
 ---
 title: Conor Thackston | Media Specialist & Educator
-layout: basic
----
----
-title: Conor Thackston | Media Specialist & Educator
-layout: basic
 ---
 
 # 👋 Hi, I'm Conor
@@ -20,13 +15,13 @@ layout: basic
 > [!multi-column]
 >
 >> [!info] **Strategic Leadership**
->> - [[portfolio/Instructional Technology Portfolio/index|Instructional Tech Portfolio]]
->> - [[portfolio/Library Media Portfolio - AASL Standards/index|AASL Standards Portfolio]]
+>> - [[portfolio/Instructional Technology Portfolio|Instructional Tech Portfolio]]
+>> - [[portfolio/Library Media Portfolio - AASL Standards|AASL Standards Portfolio]]
 >
 >> [!tip] **Pedagogy & Insights**
 >> - [[about/About Me|Philosophy & Vision]]
 >> - [[blog/Blogs|Educational Blog]]
->> - [[portfolio/Library Media Portfolio - InTASC Principles/index|InTASC Principles]]
+>> - [[portfolio/Library Media Portfolio - InTASC Principles|InTASC Principles]]
 
 ---
 
@@ -36,4 +31,5 @@ My approach combines standards-focused design with strategic resource allocation
 ---
 
 ### 📬 Connect & Resources
-[📄 Printable Resume](https://www.canva.com/design/DAFx7XiQI7l/qvCjyHRtr0BQzbEueUIMsQ/view)  |  [💼 LinkedIn](https://www.linkedin.com/in/conor-thackston-3912a8127)  |  [📧 Email Me](mailto:your-email@example.com)
+> [!example] Quick Links
+> [📄 Printable Resume](https://www.canva.com/design/DAFx7XiQI7l/qvCjyHRtr0BQzbEueUIMsQ/view) | [💼 LinkedIn](https://www.linkedin.com/in/conor-thackston-3912a8127) | [📧 Email Me](mailto:conorthackston@icloud.com)
