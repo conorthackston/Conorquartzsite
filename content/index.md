@@ -1,35 +1,40 @@
 ---
-title: Conor Thackston | Media Specialist & Educator
+title: Conor Thackston | Educational Strategist
 ---
 
-# 👋 Hi, I'm Conor
+<img src="https://images.unsplash.com/photo-1633356122544-f134324a6cee?q=80&w=2070&auto=format&fit=crop" style="width: 100%; border-radius: 24px; margin-bottom: 2rem; box-shadow: 0 20px 40px rgba(0,0,0,0.1);">
 
-**Preparing Students for the Future**
+# <span style="background: linear-gradient(90deg, #60a5fa, #a855f7, #ec4899); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 800; font-size: 3rem;">Innovation through Pedagogy.</span>
 
-> [!abstract] **Mission Statement**
-> I am a Media Specialist and Technology Teacher dedicated to bridging the gap between complex digital tools and meaningful learning. I specialize in moving beyond basic literacy into **AI fluency** and **ethical digital citizenship**.
+### I bridge the gap between complex digital tools and meaningful learning. 
+
+> [!abstract] **The Mission**
+> Dedicated to moving beyond basic literacy into **AI fluency** and **ethical digital citizenship**. My approach combines standards-focused design with strategic resource allocation to empower the future workforce.
 
 ---
 
-### 📂 Professional Portfolios
+### 📂 The Portfolio Ecosystem
+*Explore my specialized work across instructional technology and library media.*
+
 > [!multi-column]
 >
 >> [!info] **Strategic Leadership**
->> - [[portfolio/Instructional Technology Portfolio|Instructional Tech Portfolio]]
->> - [[portfolio/Library Media Portfolio - AASL Standards|AASL Standards Portfolio]]
+>> <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop" style="border-radius: 12px; margin-bottom: 10px;">
+>> - [[portfolio/Instructional Technology Portfolio/index|Instructional Tech Hub]]
+>> - [[portfolio/Library Media Portfolio - AASL Standards/index|AASL Standards]]
 >
->> [!tip] **Pedagogy & Insights**
->> - [[about/About Me|Philosophy & Vision]]
+>> [!tip] **Insights & Vision**
+>> <img src="https://images.unsplash.com/photo-1635776062127-d379bfcba9f8?q=80&w=1000&auto=format&fit=crop" style="border-radius: 12px; margin-bottom: 10px;">
+>> - [[about/About Me|About & Philosophy]]
 >> - [[blog/Blogs|Educational Blog]]
->> - [[portfolio/Library Media Portfolio - InTASC Principles|InTASC Principles]]
 
 ---
 
-### 🎯 My Approach
-My approach combines standards-focused design with strategic resource allocation to create environments where technology isn't just an add-on, but a **catalyst for success.** Whether guiding a student or training a faculty member, my goal is the same: to empower users with the skills they need to navigate and shape the future workforce.
-
----
-
-### 📬 Connect & Resources
-> [!example] Quick Links
-> [📄 Printable Resume](https://www.canva.com/design/DAFx7XiQI7l/qvCjyHRtr0BQzbEueUIMsQ/view) | [💼 LinkedIn](https://www.linkedin.com/in/conor-thackston-3912a8127) | [📧 Email Me](mailto:conorthackston@icloud.com)
+### 📬 Connect
+> [!multi-column]
+>
+>> [!link] [📄 Printable Resume](https://www.canva.com/design/DAFx7XiQI7l/qvCjyHRtr0BQzbEueUIMsQ/view)
+>
+>> [!link] [💼 LinkedIn](https://www.linkedin.com/in/conor-thackston-3912a8127)
+>
+>> [!link] [📧 Email Me](mailto:conorthackston@icloud.com)
