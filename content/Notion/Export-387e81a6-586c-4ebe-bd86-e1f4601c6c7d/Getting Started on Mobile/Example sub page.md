@@ -1,0 +1,5 @@
+In Notion, you can nest pages inside pages inside pages... infinitely. No more messy folders!
+
+  
+
+👈 To go back, tap the link at the top left, or swipe from left to right across your screen.
