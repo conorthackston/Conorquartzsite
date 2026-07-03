@@ -1,33 +1,52 @@
-# My Philosophy
+---
+title: About Me | Philosophy & Vision
+---
 
-My philosophy is to empower students as **critical thinking** digital citizens through technology integration and quality media literacy instruction. I strive to create engaging learning experiences that foster collaboration, equitable access, and lifelong learning, ensuring students are prepared to thrive in an ever-evolving digital landscape.
+# 👤 About Me
 
-[![](https://images.unsplash.com/photo-1636188540036-1879f679c2b0?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb)](https://images.unsplash.com/photo-1636188540036-1879f679c2b0?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb)
-
-# Reality of the Classroom
-
-My passion for AI isn't just about the technology itself; it's about solving the burnout I see in school every day. I’ve found that many teachers view AI as just 'one more thing' to learn. My goal has been to bridge that gap, taking the scary technical concepts and translating them into practical tools that actually save teachers time. I love that moment when a skeptical teacher realizes AI isn't here to replace them, but to handle the grunt work so they can get back to teaching
-
-[![](https://images.unsplash.com/photo-1588072432836-e10032774350?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb)](https://images.unsplash.com/photo-1588072432836-e10032774350?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb)
-
-# Digital Citizenship
-
-Coming from a library media background, I look at AI through the lens of information literacy. I am passionate about ensuring students don't just use these tools, but understand them. In my current role, I’ve integrated curriculum specifically on identifying algorithmic bias and misinformation. I want to work in this space because I believe we have a responsibility to not just hand students powerful tools, but to teach them the critical thinking skills to navigate a world filled with AI-generated content.
-
-[![](https://images.unsplash.com/photo-1483478550801-ceba5fe50e8e?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb)](https://images.unsplash.com/photo-1483478550801-ceba5fe50e8e?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb)
-
-# Curriculum & Equity
-
-I believe AI is the biggest lever we have for educational equity, but only if it’s implemented correctly. My experience in Howard County has taught me that simply buying software isn't enough; you have to support the 'human element.' I am passionate about moving districts past the 'shiny new toy' phase and into deep integration, where AI assists with linguistically diverse learners and personalized instruction. I want to build the roadmaps that make that level of adoption possible for every district.
-
-[![](https://images.unsplash.com/photo-1635011756521-005b4cb6f341?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb)](https://images.unsplash.com/photo-1635011756521-005b4cb6f341?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb)
-
-# Resume
+> [!abstract] **My Core Philosophy**
+> I empower students to become **critical thinking digital citizens**. By integrating high-quality media literacy with cutting-edge technology, I create equitable, collaborative environments where students don't just survive the digital landscape—they thrive in it.
 
 ---
 
-[[Instructional Technology Portfolio]]
+## 🏫 The Reality of the Classroom
+> [!quote] Solving Teacher Burnout
+> My passion for AI isn't just about the technology; it's about the **human element**. I’ve seen the burnout in our halls. I specialize in translating "scary" technical concepts into practical tools that save teachers time. I love the moment a skeptical educator realizes AI isn't a replacement, but a partner that handles the grunt work so they can get back to the heart of teaching.
 
-[[Blogs]]
+![Classroom Technology](https://images.unsplash.com/photo-1588072432836-e10032774350?q=80&w=1000&auto=format&fit=crop)
 
-🔗[LinkedIn](https://www.linkedin.com/in/conor-thackston-3912a8127)
+---
+
+## 🛡️ Digital Citizenship & AI Literacy
+Coming from a **Library Media background**, I view AI through the lens of information literacy. Students shouldn't just *use* these tools; they must *understand* them. 
+
+I have integrated specific curricula focused on:
+- **Identifying Algorithmic Bias**
+- **Navigating Misinformation**
+- **Critical Thinking in an AI-Generated World**
+
+![Digital Media](https://images.unsplash.com/photo-1483478550801-ceba5fe50e8e?q=80&w=1000&auto=format&fit=crop)
+
+---
+
+## ⚖️ Curriculum & Equity
+> [!important] AI is the ultimate lever for educational equity.
+> My experience in Howard County has taught me that software isn't a solution—**strategy is.** I am passionate about moving districts past the "shiny toy" phase into deep integration that supports:
+> - **Linguistically Diverse Learners**
+> - **Personalized Instruction Paths**
+> - **Scalable District Roadmaps**
+
+![Global Connection](https://images.unsplash.com/photo-1635011756521-005b4cb6f341?q=80&w=1000&auto=format&fit=crop)
+
+---
+
+### 🔗 Quick Links
+> [!multi-column]
+>
+>> [!file] **Portfolios**
+>> - [[Instructional Technology Portfolio]]
+>> - [[Library Media Portfolio - AASL Standards]]
+>
+>> [!link] **Connect**
+>> - [[Blogs]]
+>> - [LinkedIn](https://www.linkedin.com/in/conor-thackston-3912a8127)
