@@ -22,7 +22,7 @@ layout: basic
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 2rem; padding: 2rem 0; max-width: 1000px; margin: 0 auto;">
 
   <!-- Card 1: Leadership -->
-  <a href="portfolio/Instructional-Technology-Portfolio" style="text-decoration: none; color: inherit; background: #f5f5f7; border-radius: 28px; overflow: hidden; display: flex; flex-col; transition: transform 0.3s ease;">
+  <a href="portfolio/Instructional-Technology-Portfolio" style="text-decoration: none; color: inherit; background: #f0f7ff; border: 1px solid #dce9f5; border-radius: 28px; overflow: hidden; display: flex; flex-direction: column; transition: transform 0.3s ease;">
     <div style="width: 100%;">
       <img src="attachments/leadership-icon.png" style="width: 100%; height: 320px; object-fit: cover; display: block;">
       <div style="padding: 2rem;">
@@ -33,7 +33,7 @@ layout: basic
   </a>
 
   <!-- Card 2: Vision -->
-  <a href="about/About-Me" style="text-decoration: none; color: inherit; background: #f5f5f7; border-radius: 28px; overflow: hidden; display: flex; flex-col; transition: transform 0.3s ease;">
+  <a href="about/About-Me" style="text-decoration: none; color: inherit; background: #f0f7ff; border: 1px solid #dce9f5; border-radius: 28px; overflow: hidden; display: flex; flex-direction: column; transition: transform 0.3s ease;">
     <div style="width: 100%;">
       <img src="attachments/vision-bg.png" style="width: 100%; height: 320px; object-fit: cover; display: block;">
       <div style="padding: 2rem;">

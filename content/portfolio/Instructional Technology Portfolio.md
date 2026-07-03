@@ -22,9 +22,9 @@ As I wrap up my first year of teaching in a new position, I have collected and r
 
 |![](https://app.notion.com/icons/font_gray.svg)Name|
 |---|
-|[[Making Meaning Protocol- Reflection]]|
-|[[Review of Effective Technology Integration]]|
-|[[Foundations of Distance Education]]|
+|[[Making-Meaning-Protocol-Reflection]]|
+|[[Review-of-Effective-Technology-Integration]]|
+|[[Foundations-of-Distance-Education]]|
 
   
   
