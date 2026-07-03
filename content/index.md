@@ -1,30 +1,35 @@
 ---
 title: Conor Thackston | Educational Strategist
 ---
+---
+title: Conor Thackston | Educational Strategist
+---
 
-<img src="https://images.unsplash.com/photo-1633356122544-f134324a6cee?q=80&w=2070&auto=format&fit=crop" style="width: 100%; border-radius: 24px; margin-bottom: 2rem; box-shadow: 0 20px 40px rgba(0,0,0,0.1);">
+<div style="text-align: center; padding-top: 2rem;">
+    <img src="attachments/hero-portrait.png" style="width: 180px; border-radius: 100px; margin-bottom: 2rem; border: 4px solid #f5f5f7; box-shadow: 0 10px 30px rgba(0,0,0,0.05);">
+</div>
 
-# <span style="background: linear-gradient(90deg, #60a5fa, #a855f7, #ec4899); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 800; font-size: 3rem;">Innovation through Pedagogy.</span>
+# <span style="background: linear-gradient(90deg, #1d1d1f, #434345); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 800; font-size: 3.5rem; letter-spacing: -0.02em; display: block; line-height: 1.1;">Innovation.</span><span style="background: linear-gradient(90deg, #0066cc, #c621e8); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 800; font-size: 3.5rem; letter-spacing: -0.02em; display: block; line-height: 1.1;">Guided by Pedagogy.</span>
 
-### I bridge the gap between complex digital tools and meaningful learning. 
+### Bridging the gap between complex digital tools and meaningful learning.
 
 > [!abstract] **The Mission**
-> Dedicated to moving beyond basic literacy into **AI fluency** and **ethical digital citizenship**. My approach combines standards-focused design with strategic resource allocation to empower the future workforce.
+> I am a Media Specialist and Technology Teacher dedicated to moving education beyond basic literacy into **AI fluency** and **ethical digital citizenship**. My approach combines standards-focused design with strategic resource allocation to create environments where technology isn't just an add-on, but a **catalyst for success.**
 
 ---
 
-### 📂 The Portfolio Ecosystem
-*Explore my specialized work across instructional technology and library media.*
+### 📂 The Ecosystem
+*Curated portfolios highlighting strategic leadership and educational insight.*
 
 > [!multi-column]
 >
 >> [!info] **Strategic Leadership**
->> <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop" style="border-radius: 12px; margin-bottom: 10px;">
+>> <img src="attachments/leadership-icon.png" style="border-radius: 18px; margin-bottom: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
 >> - [[portfolio/Instructional Technology Portfolio/index|Instructional Tech Hub]]
 >> - [[portfolio/Library Media Portfolio - AASL Standards/index|AASL Standards]]
 >
 >> [!tip] **Insights & Vision**
->> <img src="https://images.unsplash.com/photo-1635776062127-d379bfcba9f8?q=80&w=1000&auto=format&fit=crop" style="border-radius: 12px; margin-bottom: 10px;">
+>> <img src="attachments/vision-bg.png" style="border-radius: 18px; margin-bottom: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
 >> - [[about/About Me|About & Philosophy]]
 >> - [[blog/Blogs|Educational Blog]]
 
@@ -33,7 +38,7 @@ title: Conor Thackston | Educational Strategist
 ### 📬 Connect
 > [!multi-column]
 >
->> [!link] [📄 Printable Resume](https://www.canva.com/design/DAFx7XiQI7l/qvCjyHRtr0BQzbEueUIMsQ/view)
+>> [!link] [📄 Resume](https://www.canva.com/design/DAFx7XiQI7l/qvCjyHRtr0BQzbEueUIMsQ/view)
 >
 >> [!link] [💼 LinkedIn](https://www.linkedin.com/in/conor-thackston-3912a8127)
 >
