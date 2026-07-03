@@ -1,15 +1,15 @@
 Here are some of my writings from resources I have consumed
 
-[[Improving Relationships within the Schoolhouse]]
+[[Improving-Relationships-within-the-Schoolhouse]]
 
-[[Creating a Restorative Community]]
+[[Creating-a-Resorative-Community]]
 
-[[The Listening Reader by Shane Safir]]
+[[The-Listening-Leader-by-Shane-Safir]]
 
-[[If I Started a School From Scratch]]
+[[If-I-Started-a-School-from-Scratch]]
 
-[[Constructivism in Education]]
+[[Constructivism-in-Education]]
 
-[[Makers Projects in My Classroom]]
+[[Makers-Projects-in-my-Classroom]]
 
-[[Digital Citizenship]]
+[[Digital-Citizenship]]
