@@ -1,16 +1,13 @@
 ---
-title: Conor Thackston | Educational Strategist
----
----
 title: Conor Thackston
 layout: basic
 ---
 
-<div style="text-align: center; padding: 6rem 0 4rem 0; font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif;">
-    <img src="/attachments/hero-portrait.png" style="width: 150px; border-radius: 100px; margin-bottom: 2.5rem; border: 1px solid rgba(0,0,0,0.05); box-shadow: 0 15px 35px rgba(0,0,0,0.05);">
+<div style="text-align: center; padding: 5rem 0 3rem 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+    <img src="attachments/hero-portrait.png" style="width: 140px; border-radius: 100px; margin-bottom: 2.5rem; border: 1px solid rgba(0,0,0,0.05); box-shadow: 0 15px 35px rgba(0,0,0,0.05);">
 
 <h1 style="font-weight: 700; letter-spacing: -0.02em; line-height: 1.1; margin-bottom: 1.5rem;">
-  <span style="font-size: 5rem; background: linear-gradient(to right, #1d1d1f 65%, #515154 90%, #7c7c82 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: inline-block;">Innovation.</span><br>
+  <span style="font-size: 5rem; background: linear-gradient(to right, #1d1d1f 65%, #434345 85%, #7c7c82 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: inline-block;">Innovation.</span><br>
   <span style="font-size: 4.2rem; background: linear-gradient(90deg, #0066cc, #c621e8); -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: inline-block;">Guided by Pedagogy.</span>
 </h1>
 
@@ -24,7 +21,7 @@ layout: basic
   <!-- Card 1: Leadership -->
   <a href="portfolio/Instructional Technology Portfolio" style="text-decoration: none; color: inherit; background: #f0f7ff; border: 1px solid #dce9f5; border-radius: 32px; overflow: hidden; display: flex; flex-direction: column; transition: transform 0.3s ease; box-shadow: 0 10px 30px rgba(0,0,0,0.03);">
     <div style="width: 100%;">
-      <img src="/attachments/leadership-icon.png" style="width: 100%; height: 350px; object-fit: cover; display: block;">
+      <img src="attachments/leadership-icon.png" style="width: 100%; height: 350px; object-fit: cover; display: block;">
       <div style="padding: 2.5rem;">
         <h2 style="font-size: 2.4rem; font-weight: 700; margin: 0; color: #1d1d1f; letter-spacing: -0.02em;">Strategic Leadership</h2>
         <p style="font-size: 1.3rem; color: #434345; margin-top: 0.8rem; font-weight: 450;">Instructional Tech & Standards Hub →</p>
@@ -35,7 +32,7 @@ layout: basic
   <!-- Card 2: Vision -->
   <a href="about/About Me" style="text-decoration: none; color: inherit; background: #f0f7ff; border: 1px solid #dce9f5; border-radius: 32px; overflow: hidden; display: flex; flex-direction: column; transition: transform 0.3s ease; box-shadow: 0 10px 30px rgba(0,0,0,0.03);">
     <div style="width: 100%;">
-      <img src="/attachments/vision-bg.png" style="width: 100%; height: 350px; object-fit: cover; display: block;">
+      <img src="attachments/vision-bg.png" style="width: 100%; height: 320px; object-fit: cover; display: block;">
       <div style="padding: 2.5rem;">
         <h2 style="font-size: 2.4rem; font-weight: 700; margin: 0; color: #1d1d1f; letter-spacing: -0.02em;">Insights & Vision</h2>
         <p style="font-size: 1.3rem; color: #434345; margin-top: 0.8rem; font-weight: 450;">Philosophy, Blog & Reflections →</p>
